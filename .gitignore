@@ -1,9 +1,10 @@
-/chess_board.py
-/hello_terminal.py
-/Komodo
-/python_lib.py
-/separator.py
-/Stockfish
-/Terminal Based Chess Game.docx
-/Terminal-Based Chess Game.png
-/trackX.py
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+*.log

@@ -1,0 +1,1 @@
+"""Terminal chess application package."""
