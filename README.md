@@ -22,4 +22,4 @@ A simple terminal-based chess app that lets you play against Stockfish from the 
 
 ## Notes
 - The app uses the bundled Stockfish executable from the workspace.
-- Move input uses UCI format such as `e2e4`.
+- Move input uses algebric format such as `e4`.
